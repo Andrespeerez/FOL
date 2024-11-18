@@ -25,6 +25,7 @@ Las **relaciones laborales especiales** son aquellas que tienen una **legislaci�
 3. Penados en las instituciones penitenciarias: personas que están cumpliendo pena de cárcel y pueden realizar una actividad laboral que tendrá que ser productiva y remunerada.
 4. Deportistas profesionales
 5. Artistas
+> Un niño que se dedida al mundo de la música. En determinadas ocasiones bajo determinados reglamentos, un menor puede trabajar como artistas
 
 Las **relaciones no laborales** son aquellas que **no se les aplica el Estatuto de los Trabajadores**.
 - Trabajadores autónomos
@@ -32,6 +33,7 @@ Las **relaciones no laborales** son aquellas que **no se les aplica el Estatuto 
 - Prestaciones laborales obligatorias: Presidir una mesa electoral
 - Trabajo de los familiares
 - Trabajos realizados a título de amistad, benevolencia o buena vecindad
+> Le explico al hijo de la vecina un ejercicio o parte de la materia de forma puntual, sin cobrar por ello
 
 ## 2. Explica, define y pon un ejemplo de los derechos y deberes de los trabajadores.
 
@@ -42,18 +44,21 @@ Las leyes que contemplan los derechos de los trabajadores son: la **Constitució
 - Derecho a trabajo y a escoger libremente un oficio
 > Nadie me puede obligar a trabajar
 - Derecho a la libre sindicalización
-> Puedo sindicalizarme si lo deseo
+> Puedo sindicalizarme si lo deseo, y no estoy obligado a pertenecer a ningún sindicato no no lo deseo 
 - Derecho a la negociación colectiva
 - Derecho a la huelga
 > Si se declara una huelga, tengo derecho a secundarla y no ser discriminado por ello
 - Derecho de reunión
 - Derecho de participación en la empresa
 
+
 **Derechos derivados del Estatuto de los Trabajadores:**
-- **Derecho a la ocupación efectiva**: Te tienen que dar trabajo, no te pueden pagar por estar mirando la pared
+- **Derecho a la ocupación efectiva**: 
+> Te tienen que dar trabajo, no te pueden pagar por estar mirando la pared
 - **Derecho a la promoción y formación profesional**
 - **Derecho a no ser discriminado**:  Por razones de sexo, edad, estado civil, origen racial o étnico, condición social, religión, ideas políticas, orientación sexual. Ni durante el acceso al puesto ni después de la contratación.
 - **Derecho a la integridad física**: Adecuada política de higiene e seguridad
+> Una mujer embarazada puede negarse a hacer un trabajo físico que ponga en peligro a ella o al feto
 - **Derecho a la intimidad y respecto a la dignidad**: Nada de ofensas verbales o acoso sexual
 - **Derecho a la percepción puntual del salario**
 - **Derecho a la Intimidad**: Desconexión digital, intimidad frente al uso de dispositivos de videovigilancia y geolocalización
@@ -64,6 +69,7 @@ Así como derechos, el trabajador debe cumplir unos deberes.
 - Observar las medidas de seguridad e higiene.
 - Cumplir con las ordenes e instrucciones del empresario. (Laborales, Legales; No atenten la Integridad física, moral, profesional)
 - No competir con el empresario para el que trabaja.
+> No puedo trabajar haciendo páginas webs y dedicarme a hacer páginas webs en mis tiempos libres para otras personas
 - Contribuir a la mejora de la productividad.
 - Otros deberes derivados del contrato.
 
