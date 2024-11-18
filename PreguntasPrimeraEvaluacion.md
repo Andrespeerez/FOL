@@ -109,6 +109,7 @@ La duración de la jornada de trabajo se pacta en los convenios colectivos dentr
 Son horas de trabajo realizadas por encima de la duración máxima de la jornada ordinaria.
 
 - Son voluntarias salvo convenio, o contrato de trabajo, o fuerza mayor.
+> Me obligan a realizar horas extras. Pues no pueden, el trabajo es voluntario y las horas extras también. A no ser que por convenio haya firmado 
 - Máximo de 80 horas al año.
 - Se deben de compensar:
   - Retributivamente: como mínimo con el valor de una hora ordinaria
