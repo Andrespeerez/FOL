@@ -135,16 +135,20 @@ Son horas de trabajo realizadas por encima de la duración máxima de la jornada
 
 En el contrato de trabajo siempre encontraremos los siguientes elementos:
 1. **Las partes implicadas**
-> El trabajador y el empresario
+- El trabajador
+> Un menor de 15 años no puede trabajar en un restaurante, pero puede participar en una película si cumple con todos los requisitos legales (relación laboral especial)
+- El empresario
+  - Mayor de 18 años o emancipado
+  - Puede ser: Persona Física, Jurídica o Comunidad de bienes
 2. **Elementos temporales:** Inicio, duración y distribución
 > Cuando empiezo el contrato
 > Duración del contrato
 > Duración y distribución de la jornada
 3. **Un lugar de trabajo**
 4. **La categoría o grupo profesional**
-5.** El salario:** base, complementos y periodicidad del pago [según convenio]
-6. **Las vacaciones:** Duración y distribución [según convenio]
-7. **Los plazos de preaviso:** Para ambas partes [según convenio]
+5.** El salario:** base, complementos y periodicidad del pago (según convenio)
+6. **Las vacaciones:** Duración y distribución (según convenio)
+7. **Los plazos de preaviso:** Para ambas partes (según convenio)
 8. **El convenio colectivo:** Identificación del mismo
 
 Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se debe a que cualquier cambio en el convenio afectaría a todos los contratos por igual, sin necesidad de actualizar cada contrato uno a uno
