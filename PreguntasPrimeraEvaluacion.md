@@ -1,4 +1,4 @@
-# Preguntas Primera Evaluación:
+¡# Preguntas Primera Evaluación:
 
 # Unidad 1: RELACIÓN LABORAL:
 1. Explica, define y pon un ejemplo de qué se entiende por Relación Laboral, Relaciones Laborales Especiales y las Relaciones No Laborales.
@@ -158,13 +158,15 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 > Un contrato indefinido es aquel en el que la relación laboral entre el empleado y la empresa se establece sin una duración determinada. Este tipo de contrato puede ser a jornada completa, parcial o fijo-discontinuo, y garantiza una continuidad laboral sin un término establecido de finalización. La conversión de contratos temporales en indefinidos también es posible y es una práctica incentivada por la normativa para fomentar la estabilidad en el empleo.
 
-- DURACIÓN: No tiene un plazo de finalización. Mientras ambas partes lo deseen y se cumplan con sus obligaciones.
-- FORMA: Escrita
-- MODALIDADES DE CONTRATOS INDEFINIDOS:
-  - Ordinario
-  - Fijo discontinuo
+- **DURACIÓN**: No tiene un plazo de finalización. Mientras ambas partes lo deseen y se cumplan con sus obligaciones.
+- **FORMA**: Escrita
+- **MODALIDADES** DE CONTRATOS INDEFINIDOS:
+  - Ordinario: A tiempo completo o parcial
+  - Fijo discontinuo: actividad intermitente durante el año
+> Una empresa de turrones empieza su producción a finales de veranos en previsión a la campaña navideña. Después de navidad, la actividad cesa
   - Contratación indefinido apoyo a emprendedores
   - Fomento de la contratación indefinida
+> La empresa recibe bonificaciones en las cuotas a la Seguridad Social al realizar contratos indefinidos. De esa manera incentivan la contratación indefinida
 
 > Una empresa de marketing digital contrata a un diseñador gráfico tras un período de prueba exitoso con un contrato temporal de 6 meses. Al finalizar este período, la empresa decide ofrecerle un contrato indefinido para garantizar su continuidad en la plantilla. El contrato establece que el diseñador trabajará a jornada completa con todos los beneficios asociados, como vacaciones anuales, seguridad en el empleo y protección frente a despidos injustificados.
 > 
@@ -174,19 +176,20 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 > El contrato para la formación en alternancia tiene como objetivo proporcionar una cualificación profesional a través de una combinación de trabajo real en una empresa y formación académica. Este tipo de contrato permite al trabajador desarrollar competencias laborales al mismo tiempo que completa su formación oficial en centros educativos o formativos.
 
-- OBJETIVO: Adquirir formación teórica y práctica
-- REQUISITOS:
+- **OBJETIVO**: Adquirir formación teórica y práctica
+- **REQUISITOS**:
   - Entre 16 y 30 años
   - Carecer de cualificación profesional reconocida.
   - No haber trabajado antes en la misma empresa
 > No tengo que tener una cualificación académica, es un aprendizaje. Se desarrolla una actividad relacionada con el aprendizaje
 > Al final del contrato se debe acreditar la formación recibida
-- DURACIÓN: Mínimo 1 año, máximo 2 años, se puede cambiar por convenio.
-- JORNADA: 
-  - No puede superar el 65% el primer año - y el 85% el segundo [Porque el resto del tiempo es para estudiar]
+- **DURACIÓN**: Mínimo 1 año, máximo 2 años, se puede cambiar por convenio.
+- **JORNADA**: 
+  - No puede superar el 65% el primer año - y el 85% el segundo Porque el resto del tiempo es para estudiar
   - NO podrán realizar horas extraordinarias, ni nocturnos ni a turnos
-- RETRIBUCIÓN: Según convenio
-- ACCIÓN PROTECTORA: Como cualquier otro trabajador de la empresa
+  - No tiene periodo de prueba, ni indemnización por despido
+- **RETRIBUCIÓN**: Según convenio
+- **ACCIÓN PROTECTORA**: Como cualquier otro trabajador de la empresa
 
 > Una empresa de carpintería firma un contrato de formación en alternancia con un joven de 20 años que está cursando un certificado de profesionalidad en carpintería y mueble. El contrato se establece por un período de 1 año. Durante este tiempo, el joven trabaja en la empresa realizando tareas prácticas supervisadas durante el 65% de su jornada, mientras que el 35% restante lo dedica a la formación teórica en un centro de formación profesional.
 
@@ -194,16 +197,16 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 > El contrato en prácticas está diseñado para que las personas con títulos universitarios, de formación profesional u otras certificaciones oficialmente reconocidas puedan obtener experiencia laboral relacionada con su campo de estudio. Este tipo de contrato debe celebrarse dentro de un período de tiempo específico tras la finalización de los estudios
 
-- OBJETIVO: Proporcionar prácticas profesionales adecuada a los estudios
-- REQUISITOS:
+- **OBJETIVO**: Proporcionar prácticas profesionales adecuada a los estudios
+- **REQUISITOS**:
   - Tener título universitario o FP
-  - No haya trascurrido más de 5 años desde la terminación de los estudios
+  - No haya trascurrido más de 3 años desde la terminación de los estudios (5 si eres descapacitado)
   - CIRCUNSTANCIAS ESPECIALES [Paro \> 15%]: a menores de 30 años aunque haya pasado más de 5 años comentados anteriormente.
 > Tengo una formación académica y quiero ganar mi primera experiencia laboral
-- FORMA: Por escrito y constar la titulación del trabajador, la duración y el puesto
-- DURACIÓN: Mínimo 6 meses, Máximo 1 años
-- JORNADA: Puede ser a tiempo completo o parcial
-- RETRIBUCIÓN: Fijada por convenio para un trabajador en un puesto equivalente, sin que pueda ser inferior a 60% durante el primer año y al 75% al segundo año
+- **FORMA**: Por escrito y constar la titulación del trabajador, la duración y el puesto
+- **DURACIÓN**: Mínimo 6 meses, Máximo 1 años
+- **JORNADA**: Puede ser a tiempo completo o parcial
+- **RETRIBUCIÓN**: Fijada por convenio para un trabajador en un puesto equivalente, sin que pueda ser inferior a 60% durante el primer año y al 75% al segundo año
 > Todavía no soy un trabajador que pueda rendir al 100%, tengo la capacidad teórica pero no la capacidad práctica. No soy un trabajador que rinda igual que uno con experiencia
 
 > Una empresa tecnológica contrata a un joven ingeniero que ha terminado su grado en ingeniería informática hace un año. El contrato en prácticas se firma por un período de 12 meses con la posibilidad de prórroga por otros 12 meses. Durante este tiempo, el joven ingeniero trabaja en proyectos relacionados con desarrollo de software, aplicando y mejorando sus conocimientos y habilidades en un entorno real de trabajo.
@@ -212,13 +215,13 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 > El contrato por circunstancias de la producción se formaliza cuando una empresa experimenta un aumento temporal en la demanda de trabajo que no puede ser cubierto por la plantilla habitual. Este tipo de contrato es de carácter temporal y su duración está limitada por ley.
 
-- FINALIDAD: Atender circunstancias especiales de mercado
+- **FINALIDAD**: Atender circunstancias especiales de mercado
 > Llega navidad y necesitamos ampliar plantilla
 > En la pandemia, necesitamos mayor logística de transporte
-- FORMA: Si es superior a 4 meses por escrito, en caso contrario puede ser verbal (El contrato verbal está en desuso)
-- DURACIÓN: Como máximo 6 meses en un periodo de 12 meses
-- JORNADA: A tiempo completo o tiempo parcial
-- DERECHOS Y CONDICIONES: Los trabajadores contratados por circunstancias de la producción tienen derecho a las mismas condiciones laborales aplicables a trabajadores con contratos indefinidos que desempeñan las mismas funciones.
+- **FORMA**: Si es superior a 4 meses por escrito, en caso contrario puede ser verbal (El contrato verbal está en desuso)
+- **DURACIÓN**: Como máximo 6 meses en un periodo de 12 meses
+- **JORNADA**: A tiempo completo o tiempo parcial
+- **DERECHOS Y CONDICIONES**: Los trabajadores contratados por circunstancias de la producción tienen derecho a las mismas condiciones laborales aplicables a trabajadores con contratos indefinidos que desempeñan las mismas funciones.
 
 > Imaginemos una empresa de fabricación de juguetes que recibe un gran volumen de pedidos durante la campaña de Navidad. Para cumplir con este aumento de la demanda, la empresa contrata a trabajadores adicionales mediante un contrato por circunstancias de la producción que cubre el período desde noviembre hasta enero. Al finalizar la campaña y volver la producción a su nivel habitual, estos contratos expiran, y los empleados contratados temporalmente terminan su relación laboral con la empresa.
 
@@ -226,16 +229,16 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 ## 10. Explica, define y pon un ejemplo de los contratos por sustitución de la persona trabajadora.
 
-- FINALIDAD: 
+- **FINALIDAD**: 
   - Sustituir a un trabajador con derecho a reserva
   - Cubrir un puesto mientras se realiza el proceso de selección
 > El contrato de sustitución se formaliza cuando una empresa necesita contratar a otra persona que cubra el puesto del trabajador ausente hasta que este pueda reincorporarse a sus funciones habituales.
 > Este contrato es de naturaleza temporal y debe especificar claramente tanto la causa de la sustitución como el nombre del trabajador que será reemplazado.
-- FORMA: Por escrito, debe constar el trabajador sustituido y la causa de sustitución
-- DURACIÓN: La misma duración que el tiempo de derecho de reserva o durante el periodo máximo del proceso de selección.
-- EXTINCIÓN: Cuando regrese la persona con reserva de puesto o se transforma en indefinido
-- JORNADA: A tiempo completo. Solo a tiempo parcial si la persona sustituida estaba a tiempo parcial
-- INCENTIVOS: Bonificación en la seguridad social si la sustitución es por maternidad, conciliación familiar o violencia de genero
+- **FORMA**: Por escrito, debe constar el trabajador sustituido y la causa de sustitución
+- **DURACIÓN**: La misma duración que el tiempo de derecho de reserva o durante el periodo máximo del proceso de selección.
+- **EXTINCIÓN**: Cuando regrese la persona con reserva de puesto o se transforma en indefinido
+- **JORNADA**: A tiempo completo. Solo a tiempo parcial si la persona sustituida estaba a tiempo parcial
+- **INCENTIVOS**: Bonificación en la seguridad social si la sustitución es por maternidad, conciliación familiar o violencia de genero
 
 > Supongamos que una empresa tiene una empleada que se encuentra de baja por maternidad durante un período de 16 semanas. Para cubrir su puesto de trabajo en el departamento de recursos humanos, la empresa firma un contrato de sustitución con otro empleado, indicando claramente que este contrato se extenderá desde el inicio de la baja hasta el día en que la trabajadora titular se reincorpore.
 > 
@@ -245,21 +248,21 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 Una **Empresa de Trabajo Temporal** es una empresa cuya actividad principal es poner a disposición de otra empresa usuaria a trabajadores contratados por le ETT, para que realicen tareas bajo la dirección y supervisión de la empresa usuaria, pero con una relación laboral directa con la ETT.
 
-- MODALIDAD:
+- **MODALIDAD**:
   - CONTRATOS POR CIRCUNSTANCIAS DE LA PRODUCCIÓN:
   - CONTRATOS POR SUSTITUCIÓN: Sustituir a trabajadores por causas diversas (enfermedad, maternidad, etc.)
   - CONTRATOS DE OBRA Y SERVICIO: Para tareas específicas y limitadas en el tiempo
 
-- DERECHOS DEL TRABAJADOR: Los mismos que los contratados directamente por la empresa usuaria
+- **DERECHOS DEL TRABAJADOR**: Los mismos que los contratados directamente por la empresa usuaria
   - SALARIO: Mismo salario que si estuviera contratado por la empresa usuaria
   - SEGURIDAD y SALUD: Tienen derecho a la protección adecuada en materia de seguridad y salud en el trabajo
   - FORMACIÓN: Deben recibir la formación necesaria con el puesto y los riesgos asociados
 
-- RESPONSABILIDADES DE LA ETT:
+- **RESPONSABILIDADES DE LA ETT**:
   - CONTRATO Y REMUNERACIÓN: La ETT es responsable de contratar al trabajador y pagarle el salario y las cotizaciones a la Seguridad Social
   - FORMACIÓN: Debe asegurarse de que el trabajador esté debidamente formado para el puesto
 
-- RESPONSABILIDADES DE LA EMPRESA USUARIA:
+- **RESPONSABILIDADES DE LA EMPRESA USUARIA**:
   - DIRECCIÓN Y SUPERVISIÓN: Es responsable de dirigir y supervisar el trabajo realizado por el trabajador
   - CONDICIONES DE TRABAJO: Debe garantizar las condiciones de trabajo y la seguridad laboral del trabajador
   - IGUALDAD DE DERECHOS: Debe asegurar que el trabajador tenga los mismos derechos que un empleado propio en cuanto a acceso a instalaciones y beneficios sociales
