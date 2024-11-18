@@ -263,6 +263,10 @@ Una **Empresa de Trabajo Temporal** es una empresa cuya actividad principal es p
   - CONDICIONES DE TRABAJO: Debe garantizar las condiciones de trabajo y la seguridad laboral del trabajador
   - IGUALDAD DE DERECHOS: Debe asegurar que el trabajador tenga los mismos derechos que un empleado propio en cuanto a acceso a instalaciones y beneficios sociales
 
+> Una empresa como Amazon necesita trabajadores para cubrir el trabajo durante la campaña navideña.
+> Amazon contrata una serie de trabajadores mediante una empresa de trabajo temporal que se encarga de buscar personal y ponerlo a disposición
+> Amazon ahorra así tiempo y esfuerzo en buscar personal mediante un proceso de selección
+
 ## 12. Contenido mínimo obligatorio del acuerdo de trabajo a distancia.
 
 Contenido mínimo de acuerdo:
