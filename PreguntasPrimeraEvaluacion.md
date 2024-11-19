@@ -211,17 +211,18 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 > Una empresa tecnológica contrata a un joven ingeniero que ha terminado su grado en ingeniería informática hace un año. El contrato en prácticas se firma por un período de 12 meses con la posibilidad de prórroga por otros 12 meses. Durante este tiempo, el joven ingeniero trabaja en proyectos relacionados con desarrollo de software, aplicando y mejorando sus conocimientos y habilidades en un entorno real de trabajo.
 
-## 9. Explica, define y pon un ejemplo de los contratos por circunstancias de producción
+## 9. Explica, define y pon un ejemplo de los contratos por circunstancias de producción.
 
 > El contrato por circunstancias de la producción se formaliza cuando una empresa experimenta un aumento temporal en la demanda de trabajo que no puede ser cubierto por la plantilla habitual. Este tipo de contrato es de carácter temporal y su duración está limitada por ley.
 
-- **FINALIDAD**: Atender circunstancias especiales de mercado
+- FINALIDAD: Atender circunstancias especiales de mercado
 > Llega navidad y necesitamos ampliar plantilla
 > En la pandemia, necesitamos mayor logística de transporte
-- **FORMA**: Si es superior a 4 meses por escrito, en caso contrario puede ser verbal (El contrato verbal está en desuso)
-- **DURACIÓN**: Como máximo 6 meses en un periodo de 12 meses
-- **JORNADA**: A tiempo completo o tiempo parcial
-- **DERECHOS Y CONDICIONES**: Los trabajadores contratados por circunstancias de la producción tienen derecho a las mismas condiciones laborales aplicables a trabajadores con contratos indefinidos que desempeñan las mismas funciones.
+- FORMA: Si es superior a 4 meses por escrito, en caso contrario puede ser verbal (El contrato verbal está en desuso)
+- DURACIÓN: Como máximo 6 meses en un periodo de 12 meses. En algunos convenios, me pueden contratar por 3/4 si es por 18 meses.
+> No me van a poder contratar por 12 meses, porque entonces no sería eventual por circunstancias de producción. Todo el año tendríamos esa carga de trabajo
+- JORNADA: A tiempo completo o tiempo parcial
+- DERECHOS Y CONDICIONES: Los trabajadores contratados por circunstancias de la producción tienen derecho a las mismas condiciones laborales aplicables a trabajadores con contratos indefinidos que desempeñan las mismas funciones.
 
 > Imaginemos una empresa de fabricación de juguetes que recibe un gran volumen de pedidos durante la campaña de Navidad. Para cumplir con este aumento de la demanda, la empresa contrata a trabajadores adicionales mediante un contrato por circunstancias de la producción que cubre el período desde noviembre hasta enero. Al finalizar la campaña y volver la producción a su nivel habitual, estos contratos expiran, y los empleados contratados temporalmente terminan su relación laboral con la empresa.
 
@@ -283,3 +284,29 @@ Jurídicamente no hay nada reglado sobre los gastos que tienes en casa por el te
 - Porcentaje y distribución, en su caso, entre trabajo presencial y trabajo a distancia
 - Medios de control empresarial de la actividad
 - Procedimiento a seguir en el caso de producirse dificultades técnicas que impidan el normal desarrollo del trabajo a distancia
+
+# SALARIO Y SEGURIDAD SOCIAL
+## 13. Explica, define y pon un ejemplo de las percepciones salariales.
+
+Las percepciones salariales es lo que el trabajador recibe por su trabajo, ya sea en dinero o en especie
+
+> Un trabajador que trabaja en una compañía de seguros recibe mensualmente un salario fijo y, además, tiene un seguro del hogar gratuito para los empleados de la empresa
+
+Podemos dividirlo en distintos apartados:
+- Salario base: Es una retribución que está fijado por el convenio colectivo para el grupo profesional
+- Complementos salariales: Se cobran mientras dura la situación que los genera
+  - Por circunstancias Personales: Se pueden consolidar
+> Llego trabajando 10 años para la empresa y esta me paga un complemento por antigüedad.
+> Este complemento no me pueden quitar mientras trabaje en la empresa
+  - Por puesto de trabajo que se realiza
+> La empresa me paga un plus porque trabajo siempre de noche
+> La empresa me paga un plus porque debo de limpiar fosas sépticas
+  - Por la calidad del trabajo
+> Mi calidad de trabajo ha disminuido y la empresa ha dejado de pagarme este plus
+  - Por resultados
+- Gratificaciones extraordinarias: Normalmente 2, en Navidades y en Junio. Se puede prorratear mensualmente
+- Salario en especie: Tienen un valor económico que sigue los criterios de hacienda. Pueden ser:
+  - Vehículos
+  - Alojamiento
+  - Seguros Médicos
+  - Planes de pensiones
