@@ -285,7 +285,16 @@ Jurídicamente no hay nada reglado sobre los gastos que tienes en casa por el te
 - Medios de control empresarial de la actividad
 - Procedimiento a seguir en el caso de producirse dificultades técnicas que impidan el normal desarrollo del trabajo a distancia
 
+
+
 # SALARIO Y SEGURIDAD SOCIAL
+13. Explica, define y pon un ejemplo de las percepciones salariales.
+14. Explica, define y pon un ejemplo de las percepciones No salariales.
+15. Explica, define y pon un ejemplo de la Incapacidad Temporal y de la Incapacidad Permanente.
+16. Explica, define y pon un ejemplo de la Prestación contributiva por desempleo y la Jubilación.
+
+
+
 ## 13. Explica, define y pon un ejemplo de las percepciones salariales.
 
 Las percepciones salariales es lo que el trabajador recibe por su trabajo, ya sea en dinero o en especie
