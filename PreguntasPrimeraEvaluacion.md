@@ -343,10 +343,10 @@ Tienen un carácter compensatorio.
 > Estos no cotizan porque es un gasto mío
 
   - TRIBUTAN:
-   - Quebranto de moneda
-   - Desgaste
-   - Plus de distancia
-   - Plus de transporte
+    - Quebranto de moneda
+    - Desgaste
+    - Plus de distancia
+    - Plus de transporte
 > Si vivo fuera de no sequé y el convenio dice que me pagas un plus de transporte, ese plus si que cotiza
 
 2. Prestaciones de la Seguridad Social
