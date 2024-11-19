@@ -1,14 +1,16 @@
 # Preguntas Primera Evaluación:
 
 # Unidad 1: RELACIÓN LABORAL:
-1. Explica, define y pon un ejemplo de qué se entiende por Relación Laboral, Relaciones Laborales Especiales y las Relaciones No Laborales.
-2. Explica, define y pon un ejemplo de los derechos y deberes de los trabajadores.
-3. Explica, define y pon un ejemplo de las obligaciones y potestades del empresario.
-4. Explica, define y pon un ejemplo de la jornada de trabajo y de las HH.EE.
+1. [Explica, define y pon un ejemplo de qué se entiende por Relación Laboral, Relaciones Laborales Especiales y las Relaciones No Laborales.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#1-explica-define-y-pon-un-ejemplo-de-qu%C3%A9-se-entiende-por-relaci%C3%B3n-laboral-relaciones-laborales-especiales-y-las-relaciones-no-laborales)
+2. [Explica, define y pon un ejemplo de los derechos y deberes de los trabajadores.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#2-explica-define-y-pon-un-ejemplo-de-los-derechos-y-deberes-de-los-trabajadores)
+3. [Explica, define y pon un ejemplo de las obligaciones y potestades del empresario.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#3-explica-define-y-pon-un-ejemplo-de-las-obligaciones-y-potestades-del-empresario)
+4. [Explica, define y pon un ejemplo de la jornada de trabajo y de las HH.EE.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#4-explica-define-y-pon-un-ejemplo-de-la-jornada-de-trabajo-y-de-las-hhee)
 
 
 
 ## 1. Explica, define y pon un ejemplo de qué se entiende por Relación Laboral, Relaciones Laborales Especiales y las Relaciones No Laborales.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
 
 Una relación laboral es aquella existente entre un trabajador y un empresario, por la cual el primero se compromete personal y voluntariamente a prestar sus servicios profesionales al segundo, que dirige el trabajo, se apropia de sus resultados y, a cambio, abona un salario al trabajador.
 
@@ -36,6 +38,8 @@ Las **relaciones no laborales** son aquellas que **no se les aplica el Estatuto 
 > Le explico al hijo de la vecina un ejercicio o parte de la materia de forma puntual, sin cobrar por ello
 
 ## 2. Explica, define y pon un ejemplo de los derechos y deberes de los trabajadores.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
 
 Los derechos de los trabajadores son derechos que los trabajadores tienen por ley. 
 Las leyes que contemplan los derechos de los trabajadores son: la **Constitución** y el **Estatuto de los Trabajadores**:
@@ -74,6 +78,9 @@ Así como derechos, el trabajador debe cumplir unos deberes.
 - Otros deberes derivados del contrato.
 
 ## 3. Explica, define y pon un ejemplo de las obligaciones y potestades del empresario.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
+
 ### OBLIGACIONES:
 El empresario tiene una serie de obligaciones y potestades, entre ellas, las derivadas de la relación laboral:
 - El empresario debe cumplir la ley y respetar los derechos de los trabajadores.
@@ -96,6 +103,8 @@ El empresario tiene una serie de obligaciones y potestades, entre ellas, las der
   - La suspensión de sueldo va acompañada de suspensión de empleo.
 
 ## 4. Explica, define y pon un ejemplo de la jornada de trabajo y de las HH.EE.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
 
 **JORNADA DE TRABAJO:**
 La duración de la jornada de trabajo se pacta en los convenios colectivos dentro de los márgenes establecidos por el Estatuto de los Trabajadores.
@@ -121,18 +130,19 @@ Son horas de trabajo realizadas por encima de la duración máxima de la jornada
   - Trabajadores con permiso parcial por nacimiento cuidado de menores
 
 
-
 # Unidad 2: RELACIÓN LABORAL:
-5. Explica, define y pon un ejemplo de los elementos esenciales del contrato.
-6. Explica, define y pon un ejemplo de los contratos indefinidos.
-7. Explica, define y pon un ejemplo de los contratos para la formación en alternancia.
-8. Explica, define y pon un ejemplo de los contratos para la obtención de practica profesional.
-9. Explica, define y pon un ejemplo de los contratos por circunstancias de producción.
-10. Explica, define y pon un ejemplo de los contratos por sustitución de la persona trabajadora.
-11. Explica, define y pon un ejemplo de las Empresas de Trabajo Temporal. ( Modalidades, exclusiones, derechos del trabajador, responsabilidades y potestades de la ETT y de la empresa usuaria. )
-12. Contenido mínimo obligatorio del acuerdo de trabajo a distancia.
+5. [Explica, define y pon un ejemplo de los elementos esenciales del contrato.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#5-explica-define-y-por-un-ejemplo-de-los-elementos-esenciales-del-contrato)
+6. [Explica, define y pon un ejemplo de los contratos indefinidos.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-los-contratos-indefinidos)
+7. [Explica, define y pon un ejemplo de los contratos para la formación en alternancia.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#7-explica-define-y-pon-un-ejemplo-de-los-contratos-para-la-formaci%C3%B3n-en-alternancia)
+8. [Explica, define y pon un ejemplo de los contratos para la obtención de practica profesional.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#8-explica-define-y-pon-un-ejemplo-de-los-contratos-para-la-obtenci%C3%B3n-de-practica-profesional)
+9. [Explica, define y pon un ejemplo de los contratos por circunstancias de producción.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#9-explica-define-y-pon-un-ejemplo-de-los-contratos-por-circunstancias-de-producci%C3%B3n)
+10. [Explica, define y pon un ejemplo de los contratos por sustitución de la persona trabajadora.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#10-explica-define-y-pon-un-ejemplo-de-los-contratos-por-sustituci%C3%B3n-de-la-persona-trabajadora)
+11. [Explica, define y pon un ejemplo de las Empresas de Trabajo Temporal. ( Modalidades, exclusiones, derechos del trabajador, responsabilidades y potestades de la ETT y de la empresa usuaria. )](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#11-explica-define-y-pon-un-ejemplo-de-las-empresas-de-trabajo-temporal--modalidades-exclusiones-derechos-del-trabajador-responsabilidades-y-potestades-de-la-ett-y-de-la-empresa-usuaria-)
+12. [Contenido mínimo obligatorio del acuerdo de trabajo a distancia.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#12-contenido-m%C3%ADnimo-obligatorio-del-acuerdo-de-trabajo-a-distancia)
 
 ## 5. Explica, define, y por un ejemplo de los elementos esenciales del contrato
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 En el contrato de trabajo siempre encontraremos los siguientes elementos:
 1. **Las partes implicadas**
@@ -155,6 +165,8 @@ En el contrato de trabajo siempre encontraremos los siguientes elementos:
 Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se debe a que cualquier cambio en el convenio afectaría a todos los contratos por igual, sin necesidad de actualizar cada contrato uno a uno
 
 ## 6. Explica, define y pon un ejemplo de los contratos indefinidos
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > Un contrato indefinido es aquel en el que la relación laboral entre el empleado y la empresa se establece sin una duración determinada. Este tipo de contrato puede ser a jornada completa, parcial o fijo-discontinuo, y garantiza una continuidad laboral sin un término establecido de finalización. La conversión de contratos temporales en indefinidos también es posible y es una práctica incentivada por la normativa para fomentar la estabilidad en el empleo.
 
@@ -173,6 +185,8 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 > Con este contrato, el diseñador sabe que seguirá trabajando en la empresa por tiempo indefinido, siempre y cuando cumpla con sus obligaciones y la empresa mantenga su necesidad de contar con sus servicios.
 
 ## 7. Explica, define y pon un ejemplo de los contratos para la formación en alternancia
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > El contrato para la formación en alternancia tiene como objetivo proporcionar una cualificación profesional a través de una combinación de trabajo real en una empresa y formación académica. Este tipo de contrato permite al trabajador desarrollar competencias laborales al mismo tiempo que completa su formación oficial en centros educativos o formativos.
 
@@ -194,6 +208,8 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 > Una empresa de carpintería firma un contrato de formación en alternancia con un joven de 20 años que está cursando un certificado de profesionalidad en carpintería y mueble. El contrato se establece por un período de 1 año. Durante este tiempo, el joven trabaja en la empresa realizando tareas prácticas supervisadas durante el 65% de su jornada, mientras que el 35% restante lo dedica a la formación teórica en un centro de formación profesional.
 
 ## 8. Explica, define y pon un ejemplo de los contratos para la obtención de practica profesional
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > El contrato en prácticas está diseñado para que las personas con títulos universitarios, de formación profesional u otras certificaciones oficialmente reconocidas puedan obtener experiencia laboral relacionada con su campo de estudio. Este tipo de contrato debe celebrarse dentro de un período de tiempo específico tras la finalización de los estudios
 
@@ -212,6 +228,8 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 > Una empresa tecnológica contrata a un joven ingeniero que ha terminado su grado en ingeniería informática hace un año. El contrato en prácticas se firma por un período de 12 meses con la posibilidad de prórroga por otros 12 meses. Durante este tiempo, el joven ingeniero trabaja en proyectos relacionados con desarrollo de software, aplicando y mejorando sus conocimientos y habilidades en un entorno real de trabajo.
 
 ## 9. Explica, define y pon un ejemplo de los contratos por circunstancias de producción.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > El contrato por circunstancias de la producción se formaliza cuando una empresa experimenta un aumento temporal en la demanda de trabajo que no puede ser cubierto por la plantilla habitual. Este tipo de contrato es de carácter temporal y su duración está limitada por ley.
 
@@ -229,6 +247,8 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 > Este tipo de contrato permite a la empresa adaptarse de manera flexible a situaciones de picos de producción sin necesidad de ampliar permanentemente su plantilla.
 
 ## 10. Explica, define y pon un ejemplo de los contratos por sustitución de la persona trabajadora.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 - **FINALIDAD**: 
   - Sustituir a un trabajador con derecho a reserva
@@ -246,6 +266,8 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 > Al finalizar las 16 semanas, y una vez la empleada original retoma su puesto, el contrato de sustitución se da por finalizado de manera automática.
 
 ## 11. Explica, define y pon un ejemplo de las Empresas de Trabajo Temporal. ( Modalidades, exclusiones, derechos del trabajador, responsabilidades y potestades de la ETT y de la empresa usuaria. )
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 Una **Empresa de Trabajo Temporal** es una empresa cuya actividad principal es poner a disposición de otra empresa usuaria a trabajadores contratados por le ETT, para que realicen tareas bajo la dirección y supervisión de la empresa usuaria, pero con una relación laboral directa con la ETT.
 
@@ -273,6 +295,8 @@ Una **Empresa de Trabajo Temporal** es una empresa cuya actividad principal es p
 > Amazon ahorra así tiempo y esfuerzo en buscar personal mediante un proceso de selección
 
 ## 12. Contenido mínimo obligatorio del acuerdo de trabajo a distancia.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 Contenido mínimo de acuerdo:
 > Te doy 150 euros de esto de luz, de gas, y de no sequé
@@ -288,14 +312,16 @@ Jurídicamente no hay nada reglado sobre los gastos que tienes en casa por el te
 
 
 # SALARIO Y SEGURIDAD SOCIAL
-13. Explica, define y pon un ejemplo de las percepciones salariales.
-14. Explica, define y pon un ejemplo de las percepciones No salariales.
+13. [Explica, define y pon un ejemplo de las percepciones salariales.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#13-explica-define-y-pon-un-ejemplo-de-las-percepciones-salariales)
+14. [Explica, define y pon un ejemplo de las percepciones No salariales.](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#14-explica-define-y-pon-un-ejemplo-de-las-percepciones-no-salariales)
 15. Explica, define y pon un ejemplo de la Incapacidad Temporal y de la Incapacidad Permanente.
 16. Explica, define y pon un ejemplo de la Prestación contributiva por desempleo y la Jubilación.
 
 
 
 ## 13. Explica, define y pon un ejemplo de las percepciones salariales.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#salario-y-seguridad-social)
 
 Las percepciones salariales es lo que el trabajador recibe por su trabajo, ya sea en dinero o en especie
 
@@ -328,6 +354,8 @@ Podemos dividirlo en distintos apartados:
   - Planes de pensiones
 
 ## 14. Explica, define y pon un ejemplo de las percepciones No salariales.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#salario-y-seguridad-social)
 
 Las prestaciones no salariales son retribuciones que recibe el trabajador que no se consideran parte de su salario, ya que no remuneran directamente el trabajo realizado.
 Tienen un carácter compensatorio.
