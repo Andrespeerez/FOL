@@ -448,6 +448,12 @@ Existen dos contingencias dependiendo de cuales hayan sido las causas de la baja
 
 > Me he caído por las escaleras de mi empresa, cuando me dirigía desde mi departamento a otro. Soy baja en la empresa y recibiría la contingencia profesional ya que se produjo durante la realización de mis labores en la empresa
 
+### Incapacidad Permanente
+
+La Seguridad Social nos puede dar una indemnización o subsidio por Incapacidad Permanente.
+
+> He perdido la visión y ya no estoy capacitado para trabajar. Ahora recibo un subsidio por discapacidad
+
 Dependiendo de la incapacidad recibiré un tipo de subsidio o otro:
 |  TIPO |  DESCRIPCIÓN | INDEMNIZACIÓN|
 |-------|----------------|-------------------|
@@ -455,3 +461,48 @@ Dependiendo de la incapacidad recibiré un tipo de subsidio o otro:
 |Total| No puedo seguir ejerciendo mi trabajo, pero puedo hacer otras labores | Subsidio de 55% de la Base Reguladora + 20% si soy mayor de 55 años sin trabajo |
 |Absoluta| No puedo hacer ningún trabajo, pero aun me valgo por mi mismo| 100% Base Reguladora|
 |Gran Invalidez| No son capaz de llevar una vida normal y necesito contratar a alguien para que me cuide| 100% Base Reguladora + Complementos: 45% Base Reguladora + 30% Última Base de Cotización |
+
+
+## 16. Explica, define y pon un ejemplo de la Prestación contributiva por desempleo y la Jubilación.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#salario-y-seguridad-social)
+
+### Desempleo - Prestación contributiva
+
+La reciben aquellos que pierdan su empleo y se encuentren activamente buscando empleo. 
+
+> La empresa en la que trabajaba ha cesado su actividad y ahora estoy en el paro.
+> 
+> Me encuentro activamente buscando empleo y mientras cobro la Prestación Contributiva.
+
+La prestación contributiva tiene una duración que viene determinada por la cantidad de tiempo que hayas estado cotizando en los últimos 6 años anteriores:
+
+|   TIEMPO COTIZADO      |  PERIODO DE PRESTACIÓN  |
+|-------------------------|------------------------------|
+| Desde 360 días a 539    | 120 días                                       |
+| Desde 540 días a 719     | 180 días                                       |
+| Desde 720 días a 899    | 240 días                                      |
+| Desde 900 días a 1079 | 300 días                                      |
+| ... | ... |
+| Desde 2160 días (6 años) |  720 días (2 años)                 |
+
+> He terminado el periodo de prestación contributiva y todavía no he encontrado empleo.
+> 
+> Buscaré si puedo recibir un subsidio por desempleo.
+
+El subsidio por desempleo es distinto a la Prestación Contributiva y depende de la situación personal y familiar de cada uno.
+
+### Jubilación
+
+La jubilación es una pensión vitalicia que se reconoce al beneficiario al alcanzar la edad establecida
+
+> He trabajado toda la vida y ahora que tengo 67 años ya me resulta complicado trabajar. Voy a jubilarme
+> 
+>  Cobraré un salario por el resto de mis días
+
+Para poder ser beneficiario de la jubilación debo:
+- Haber cotizado 15 años mínimo (50% BR)
+- Para obtener el 100% debo de cotizar un mínimo de años. (Va cambiando)
+  - 2021: Tener 65 años y +37 años cotizados
+  - 2027: Tener 67 años y +38 años cotizados
