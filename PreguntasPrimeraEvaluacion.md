@@ -305,13 +305,19 @@ Podemos dividirlo en distintos apartados:
 - Salario base: Es una retribución que está fijado por el convenio colectivo para el grupo profesional
 - Complementos salariales: Se cobran mientras dura la situación que los genera
   - Por circunstancias Personales: Se pueden consolidar
+ 
 *Llego trabajando 10 años para la empresa y esta me paga un complemento por antigüedad.*
 *Este complemento no me pueden quitar mientras trabaje en la empresa*
+
   - Por puesto de trabajo que se realiza
+
 *La empresa me paga un plus porque trabajo siempre de noche*
 *La empresa me paga un plus porque debo de limpiar fosas sépticas*
+
   - Por la calidad del trabajo
+
 *Mi calidad de trabajo ha disminuido y la empresa ha dejado de pagarme este plus*
+
   - Por resultados
 - Gratificaciones extraordinarias: Normalmente 2, en Navidades y en Junio. Se puede prorratear mensualmente
 - Salario en especie: Tienen un valor económico que sigue los criterios de hacienda. Pueden ser:
