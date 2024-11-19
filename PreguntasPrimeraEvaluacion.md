@@ -326,3 +326,41 @@ Podemos dividirlo en distintos apartados:
   - Alojamiento
   - Seguros Médicos
   - Planes de pensiones
+
+## 14. Explica, define y pon un ejemplo de las percepciones No salariales.
+
+Las prestaciones no salariales son retribuciones que recibe el trabajador que no se consideran parte de su salario, ya que no remuneran directamente el trabajo realizado.
+Tienen un carácter compensatorio.
+
+*Algunos tributan y otros no*
+
+1. Indemnizaciones o suplido:
+  - NO TRIBUTAN: No tenemos que pagar por ellos
+      - Gastos de locomoción
+      - Dietas
+> Si yo me voy a Madrid con mi coche para la empresa, ese viaje no cotiza porque no es un sueldo para mi, me están compensando por un gasto que he tenido que hacer
+> 
+> Estos no cotizan porque es un gasto mío
+
+  - TRIBUTAN:
+  - Quebranto de moneda
+  - Desgaste
+  - Plus de distancia
+  - Plus de transporte
+> Si vivo fuera de no sequé y el convenio dice que me pagas un plus de transporte, ese plus si que cotiza
+
+2. Prestaciones de la Seguridad Social
+  - Subsidio de incapacidad temporal
+> He tenido un accidente y estoy de baja. Cobraré durante el periodo de baja como una medida de contingencia hasta que vuelva a trabajar
+
+3. Indemnizaciones por traslado, suspensión y despido
+  - Aportaciones por traslados, no cotizan dentro de unos límites
+*Si estoy dentro de los límites que marca la ley, no cotizan*
+> Ahora trasladan la empresa a Barcelona y la empresa me paga 3000 € por indemnización por traslado, ya que ahora me toca desmontar mi casa y mudarme a Barcelona
+> 
+> Si de los 3000 €, 1500 € están dentro de lo que marca la ley, yo tributaría los 1500 € sobrantes
+
+4. Otras percepciones salariales
+  - Primas de seguros, ayudas por hijos, productos...
+*También tributarían*
+> La empresa paga los libros de los niños de los trabajadores del cole
