@@ -1,4 +1,4 @@
-¡# Preguntas Primera Evaluación:
+# Preguntas Primera Evaluación:
 
 # Unidad 1: RELACIÓN LABORAL:
 1. Explica, define y pon un ejemplo de qué se entiende por Relación Laboral, Relaciones Laborales Especiales y las Relaciones No Laborales.
