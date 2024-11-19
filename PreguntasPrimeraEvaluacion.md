@@ -10,6 +10,7 @@
 
 ## 1. Explica, define y pon un ejemplo de qué se entiende por Relación Laboral, Relaciones Laborales Especiales y las Relaciones No Laborales.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
 
 Una relación laboral es aquella existente entre un trabajador y un empresario, por la cual el primero se compromete personal y voluntariamente a prestar sus servicios profesionales al segundo, que dirige el trabajo, se apropia de sus resultados y, a cambio, abona un salario al trabajador.
@@ -39,6 +40,7 @@ Las **relaciones no laborales** son aquellas que **no se les aplica el Estatuto 
 
 ## 2. Explica, define y pon un ejemplo de los derechos y deberes de los trabajadores.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
 
 Los derechos de los trabajadores son derechos que los trabajadores tienen por ley. 
@@ -79,6 +81,7 @@ Así como derechos, el trabajador debe cumplir unos deberes.
 
 ## 3. Explica, define y pon un ejemplo de las obligaciones y potestades del empresario.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
 
 ### OBLIGACIONES:
@@ -104,6 +107,7 @@ El empresario tiene una serie de obligaciones y potestades, entre ellas, las der
 
 ## 4. Explica, define y pon un ejemplo de la jornada de trabajo y de las HH.EE.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-1-relaci%C3%B3n-laboral)
 
 **JORNADA DE TRABAJO:**
@@ -142,6 +146,7 @@ Son horas de trabajo realizadas por encima de la duración máxima de la jornada
 
 ## 5. Explica, define, y por un ejemplo de los elementos esenciales del contrato
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 En el contrato de trabajo siempre encontraremos los siguientes elementos:
@@ -166,6 +171,7 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 ## 6. Explica, define y pon un ejemplo de los contratos indefinidos
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > Un contrato indefinido es aquel en el que la relación laboral entre el empleado y la empresa se establece sin una duración determinada. Este tipo de contrato puede ser a jornada completa, parcial o fijo-discontinuo, y garantiza una continuidad laboral sin un término establecido de finalización. La conversión de contratos temporales en indefinidos también es posible y es una práctica incentivada por la normativa para fomentar la estabilidad en el empleo.
@@ -186,6 +192,7 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 ## 7. Explica, define y pon un ejemplo de los contratos para la formación en alternancia
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > El contrato para la formación en alternancia tiene como objetivo proporcionar una cualificación profesional a través de una combinación de trabajo real en una empresa y formación académica. Este tipo de contrato permite al trabajador desarrollar competencias laborales al mismo tiempo que completa su formación oficial en centros educativos o formativos.
@@ -209,6 +216,7 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 ## 8. Explica, define y pon un ejemplo de los contratos para la obtención de practica profesional
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > El contrato en prácticas está diseñado para que las personas con títulos universitarios, de formación profesional u otras certificaciones oficialmente reconocidas puedan obtener experiencia laboral relacionada con su campo de estudio. Este tipo de contrato debe celebrarse dentro de un período de tiempo específico tras la finalización de los estudios
@@ -229,6 +237,7 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 ## 9. Explica, define y pon un ejemplo de los contratos por circunstancias de producción.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 > El contrato por circunstancias de la producción se formaliza cuando una empresa experimenta un aumento temporal en la demanda de trabajo que no puede ser cubierto por la plantilla habitual. Este tipo de contrato es de carácter temporal y su duración está limitada por ley.
@@ -248,6 +257,7 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 ## 10. Explica, define y pon un ejemplo de los contratos por sustitución de la persona trabajadora.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 - **FINALIDAD**: 
@@ -267,6 +277,7 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
 
 ## 11. Explica, define y pon un ejemplo de las Empresas de Trabajo Temporal. ( Modalidades, exclusiones, derechos del trabajador, responsabilidades y potestades de la ETT y de la empresa usuaria. )
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 Una **Empresa de Trabajo Temporal** es una empresa cuya actividad principal es poner a disposición de otra empresa usuaria a trabajadores contratados por le ETT, para que realicen tareas bajo la dirección y supervisión de la empresa usuaria, pero con una relación laboral directa con la ETT.
@@ -296,6 +307,7 @@ Una **Empresa de Trabajo Temporal** es una empresa cuya actividad principal es p
 
 ## 12. Contenido mínimo obligatorio del acuerdo de trabajo a distancia.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#unidad-2-relaci%C3%B3n-laboral)
 
 Contenido mínimo de acuerdo:
@@ -321,6 +333,7 @@ Jurídicamente no hay nada reglado sobre los gastos que tienes en casa por el te
 
 ## 13. Explica, define y pon un ejemplo de las percepciones salariales.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#salario-y-seguridad-social)
 
 Las percepciones salariales es lo que el trabajador recibe por su trabajo, ya sea en dinero o en especie
@@ -355,6 +368,7 @@ Podemos dividirlo en distintos apartados:
 
 ## 14. Explica, define y pon un ejemplo de las percepciones No salariales.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#salario-y-seguridad-social)
 
 Las prestaciones no salariales son retribuciones que recibe el trabajador que no se consideran parte de su salario, ya que no remuneran directamente el trabajo realizado.
@@ -392,3 +406,48 @@ Tienen un carácter compensatorio.
   - Primas de seguros, ayudas por hijos, productos...
 *También tributarían*
 > La empresa paga los libros de los niños de los trabajadores del cole
+
+### Incapacidad Permanente
+
+La Seguridad Social nos puede dar una indemnización o subsidio por Incapacidad Permanente.
+
+> He perdido la visión y ya no estoy capacitado para trabajar. Ahora recibo un subsidio por discapacidad
+
+## 15. Explica, define y pon un ejemplo de la Incapacidad Temporal y de la Incapacidad Permanente.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#preguntas-primera-evaluaci%C3%B3n)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasPrimeraEvaluacion.md#salario-y-seguridad-social)
+
+La Seguridad Social da subsidio o indemnización, dependiendo del caso, a aquellas personas que son baja por una Incapacidad.
+
+### Incapacidad Temporal
+La incapacidad Temporal sería aquella que provoca baja de forma temporal en el puesto de trabajo, por la que la seguridad social nos ofrecerá un subsidio diario mientras dure esa circunstancia especial
+
+>  Me he caído por las escaleras y me he roto una pierna. Voy a estar 2 meses de baja por lo que cobraré un subsidio hasta que reciba el alta médica y me vuelva a incorporar al trabajo.
+
+La cantidad del subsidio se calcula en base a la Base Reguladora:
+```
+Base_Reguladora = BCCC_MesAnterior / Dias_Cotizados
+```
+
+Existen dos contingencias dependiendo de cuales hayan sido las causas de la baja:
+- Contingencias Comunes: La baja se produce fuera del entorno laboral
+  - Del 1 al 3: No cobro nada
+  - Del 4 al 20: Cobro el 60% de la base reguladora
+  - Del 21 al X: Cobro el 75% de la base reguladora
+
+> Me he caído por las escaleras de mi casa cuando iba a comprar el pan. Soy baja en la empresa, pero las circunstancias de mi baja no están relacionadas a mis labores realizadas en la empresa. 
+
+- Contingencias Profesionales: La baja se produce durante la realización de mis labores
+  - Día de baja: 100% de la Base Reguladora
+  - Desde Siguiente: 75% de la Base Reguladora
+
+> Me he caído por las escaleras de mi empresa, cuando me dirigía desde mi departamento a otro. Soy baja en la empresa y recibiría la contingencia profesional ya que se produjo durante la realización de mis labores en la empresa
+
+Dependiendo de la incapacidad recibiré un tipo de subsidio o otro:
+|  TIPO |  DESCRIPCIÓN | INDEMNIZACIÓN|
+|-------|----------------|-------------------|
+|Parcial| He perdido un rendimiento de hasta el 33% en mi trabajo | Indemnización de 24 meses de la Base Reguladora |
+|Total| No puedo seguir ejerciendo mi trabajo, pero puedo hacer otras labores | Subsidio de 55% de la Base Reguladora + 20% si soy mayor de 55 años sin trabajo |
+|Absoluta| No puedo hacer ningún trabajo, pero aun me valgo por mi mismo| 100% Base Reguladora|
+|Gran Invalidez| No son capaz de llevar una vida normal y necesito contratar a alguien para que me cuide| 100% Base Reguladora + Complementos: 45% Base Reguladora + 30% Última Base de Cotización |
