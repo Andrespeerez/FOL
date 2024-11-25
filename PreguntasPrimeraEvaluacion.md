@@ -99,11 +99,16 @@ El empresario tiene una serie de obligaciones y potestades, entre ellas, las der
 - Dictar órdenes e instrucciones
 > Nunca puede ir en contra de la integridad física, moral del trabajador o de las leyes
 - Controlar que se están cumpliendo sus órdenes e instrucciones:
- - Vigilar al trabajador mediante: 
+ - Vigilar al trabajador mediante:
+   
     a. Registros cuando se tenga seguridad o sospecha de robo
+   
     b. Videovigilancia mediante cámaras desprovistas de audio, salvo zonas de descanso, comedores, servicios, etc. Se debe avisar al trabajador
+   
     c. Vigilancia del correo electrónico y el uso de ordenadores. Políticas de uso.
+   
     d. Verificar el estado de enfermedad o accidente del trabajador
+   
 - Poder disciplinario: Si un trabajador no cumple con sus obligaciones, se puede sancionar al trabajador.
   - El convenio colectivo recogerá las sanciones dependiendo de su gravedad.
   - No podrán suspender de sueldo o de días de descanso al trabajador.
