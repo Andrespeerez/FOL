@@ -167,11 +167,14 @@ En el contrato de trabajo siempre encontraremos los siguientes elementos:
   - Puede ser: Persona Física, Jurídica o Comunidad de bienes
 2. **Elementos temporales:** Inicio, duración y distribución
 > Cuando empiezo el contrato
+> 
 > Duración del contrato
+> 
 > Duración y distribución de la jornada
+> 
 3. **Un lugar de trabajo**
 4. **La categoría o grupo profesional**
-5.** El salario:** base, complementos y periodicidad del pago (según convenio)
+5. **El salario:** base, complementos y periodicidad del pago (según convenio)
 6. **Las vacaciones:** Duración y distribución (según convenio)
 7. **Los plazos de preaviso:** Para ambas partes (según convenio)
 8. **El convenio colectivo:** Identificación del mismo
