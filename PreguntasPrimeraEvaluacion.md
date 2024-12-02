@@ -407,7 +407,7 @@ Tienen un carácter compensatorio.
   - Subsidio de incapacidad temporal
 > He tenido un accidente y estoy de baja. Cobraré durante el periodo de baja como una medida de contingencia hasta que vuelva a trabajar
 
-3. Indemnizaciones por traslado, suspensión y despido
+3. Indemnizaciones por traslado (no tributa), suspensión y despido (no tributa)
   - Aportaciones por traslados, no cotizan dentro de unos límites
 *Si estoy dentro de los límites que marca la ley, no cotizan*
 > Ahora trasladan la empresa a Barcelona y la empresa me paga 3000 € por indemnización por traslado, ya que ahora me toca desmontar mi casa y mudarme a Barcelona
