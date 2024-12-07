@@ -240,7 +240,7 @@ Muchas veces aparecerá en nuestro contrato la frase *según convenio*. Esto se 
   - CIRCUNSTANCIAS ESPECIALES [Paro \> 15%]: a menores de 30 años aunque haya pasado más de 5 años comentados anteriormente.
 > Tengo una formación académica y quiero ganar mi primera experiencia laboral
 - **FORMA**: Por escrito y constar la titulación del trabajador, la duración y el puesto
-- **DURACIÓN**: Mínimo 6 meses, Máximo 1 años
+- **DURACIÓN**: Mínimo 6 meses, Máximo 2 años
 - **JORNADA**: Puede ser a tiempo completo o parcial
 - **RETRIBUCIÓN**: Fijada por convenio para un trabajador en un puesto equivalente, sin que pueda ser inferior a 60% durante el primer año y al 75% al segundo año
 > Todavía no soy un trabajador que pueda rendir al 100%, tengo la capacidad teórica pero no la capacidad práctica. No soy un trabajador que rinda igual que uno con experiencia
