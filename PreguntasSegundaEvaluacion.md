@@ -16,24 +16,24 @@
 
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-4-modificacion-suspension-y-extincion-del-contrato-de-trabajo)
 
-### __Movilidad funcional:__ Cuando el trabajador realiza tareas diferentes a las habituales cumpliendo órdenes de la empresa
+### **Movilidad funcional:** Cuando el trabajador realiza tareas diferentes a las habituales cumpliendo órdenes de la empresa
 
-Tenemos movilidad funcional tanto __horizontal__ (dentro del mismo grupo profesional o equivalentes);  __vertical__ (cambio de categoría profesional por necesidad de la empresa) que puede ser __ascendente__ o __descendente__
+Tenemos movilidad funcional tanto **horizontal** (dentro del mismo grupo profesional o equivalentes);  **vertical** (cambio de categoría profesional por necesidad de la empresa) que puede ser **ascendente** o **descendente**
 
-En la __movilidad funcional horizontal__ es cuando un trabajador se mueve a otro puesto de trabajo dentro del mismo grupo profesional o equivalente, percibiendo las retribuciones relativas al puesto de trabajo, sin alegar causa alguna
+En la **movilidad funcional horizontal** es cuando un trabajador se mueve a otro puesto de trabajo dentro del mismo grupo profesional o equivalente, percibiendo las retribuciones relativas al puesto de trabajo, sin alegar causa alguna
 - Puede ser temporal o definitiva
 
-En la __movilidad funcional vertical__ al trabajador se le asigna tareas de un grupo profesional inferior o superior de forma temporal. La empresa deberá de alegar causas justificadas para poder realizar la movilidad
+En la **movilidad funcional vertical** al trabajador se le asigna tareas de un grupo profesional inferior o superior de forma temporal. La empresa deberá de alegar causas justificadas para poder realizar la movilidad
 - Ascendente: El trabajador ocupa un puesto superior. Percibirá el salario del puesto superior
 - Descendente: El trabajador ocupara un puesto inferior. Percibirá el salario de su puesto anterior
 
-Por último tenemos la __movilidad extraordinaria__ que es cuando el trabajador cambia de grupo profesional definitivamente. Se trata de una modificación sustancial de las condiciones de trabajo
+Por último tenemos la **movilidad extraordinaria** que es cuando el trabajador cambia de grupo profesional definitivamente. Se trata de una modificación sustancial de las condiciones de trabajo
 
-### __Movilidad geográfica:__ Cuando la empresa cambia de centro de trabajo de un empleado, lo que implica un camvio de residencia del empleado y que existan causas objetivas para realizar dicho cambio (la empresa debe justificar el traslado por razones económicas, organizativas, productivas o tecnológicas)
+### **Movilidad geográfica:** Cuando la empresa cambia de centro de trabajo de un empleado, lo que implica un camvio de residencia del empleado y que existan causas objetivas para realizar dicho cambio (la empresa debe justificar el traslado por razones económicas, organizativas, productivas o tecnológicas)
 
 Si el cambio de centro de trabajo no requiere un cambio de residencia, la empresa puede reasignar al trabajador sin necesidad de justificaciones especiales
 
-__Desplazamiento__ (movilidad geográfica temporal): Cambio temporal del centro de trabajo (no puede durar más de 1 año en un periódo de 3 años)
+#### Desplazamiento (movilidad geográfica temporal): Cambio temporal del centro de trabajo (no puede durar más de 1 año en un periódo de 3 años)
 
 - Se debe comunicar con antelación (si el desplazamiento es mayor a 3 meses, la empresa debe avisar con 5 días de antelación)
 - El trabajador puede:
@@ -44,9 +44,9 @@ __Desplazamiento__ (movilidad geográfica temporal): Cambio temporal del centro 
   - 2 días de viaje (ida y vuelta)
   - Pago de gastos de viaje y dietas según convenio laboral
 
-__Traslado__ (movilidad geográfica permanente): Cambio definitivo del puesto de trabajo (si dura más de 1 año en un periodo de 3 años)
+#### Traslado (movilidad geográfica permanente): Cambio definitivo del puesto de trabajo (si dura más de 1 año en un periodo de 3 años)
 
-Puede tratarse de un traslado __individual__ o __colectivo__
+Puede tratarse de un traslado **individual** o **colectivo**
 
 - La empresa lo debe notificar con 30 días de antelación
 - El trabajador puede:
@@ -59,3 +59,32 @@ Si es colectivo:
 - Si no hay acuerdo
   - Se prosigue con el traslado
   - Los representantes sindicales pueden recurrir la medida y llevarla a los tribunales
+
+## 2. Explica, define y pon un ejemplo de modificacion sustancial de las condiciones de trabajo.
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-4-modificacion-suspension-y-extincion-del-contrato-de-trabajo)
+
+Las empresas pueden acordar modificaciones sustanciales de las condiciones de trabajo, individuales o colectivas, siempre que existan razones económicas, técnicas, organizativas o de producción que lo justifiquen. Pueden afectar a:
+- La Jornada Laboral
+- El Horario y Distribucción del Tiempo de Trabajo
+- Sistema de Trabajo
+- Sistema de Remuneración
+- Sistema de Trabajo
+- Movilidad Funcional
+
+### Individual (se le debe notificar con 15 días de antelación)
+
+El empreado puede:
+- Aceptar la decisión empresarial
+- Recurrir en el juzgado (en el plazo de 20 días laborales)
+- Extinguir el contrato con derecho a indemnización de 20 días de salario por año trabajado hasta un máximo de 9 mensualidades (270 días)
+  - En caso de que afecte a su dignidad puede solicitarla con un máximo de 33 días / año (720 días)
+
+### Colectiva:
+
+- Se debe negociar con los representantes de los trabajadores
+  - Periodo de consulta de 15 días máximo
+- Si no hay acuerdo:
+  - Se ejecuta en 7 días
+  - Los representantes pueden recurrir ante la justicia
