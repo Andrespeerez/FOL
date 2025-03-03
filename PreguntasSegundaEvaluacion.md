@@ -88,3 +88,48 @@ El empreado puede:
 - Si no hay acuerdo:
   - Se ejecuta en 7 días
   - Los representantes pueden recurrir ante la justicia
+
+## 3. Explica, define y pon un ejemplo de la suspension de contrato de trabajo por causas de suspension especifica y por excedencias
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-4-modificacion-suspension-y-extincion-del-contrato-de-trabajo)
+
+### Suspensión específica
+
+- Mutuo acuerdo de las partes y causas acordadas en el contrato
+- Permiso de formación o perfeccionamiento profesional (según lo fijado en el convenio colectivo)
+- Incapacidad temporal por accidente o enfermedad
+  - Máximo 12 meses prorrogables otros 6 o de 6 en 6 en periodos de observación de la enfermedad hasta un máximo de 18 meses
+  - Se cobra prestación de la Seguridad Social
+- Incapacidad permanente total, absoluta o gran invalidez
+  - Se reserva el puesto de trabajo durante 2 años, sólo si el INSS (Intituto Nacional Seguridad Social) prevé la posibilidad de recuperación o si se califica como incapacidad parcial
+  - Se cobra de la Seguridad Social
+- Por huelga y cierre patronal de la empresa
+  - Se suspende el contrato, el trabajador no percibe salario ni prestación por desempleo
+- Suspensión de empleo y sueldo por razones disciplinarias
+  - La duración la establece el convenio colectivo según la gravedad de la infracción
+- Privación de libertad mientras no exista sentencia condenatoria
+- Decisión de la trabajadora siendo víctima de violencia de género
+  - Suspención del contrato hasta 6 meses, prorrogables judicialmente en periodos de 3 meses hasta un máximo de 18 meses, para garantizar su protección
+
+### Excedencia:
+
+Suspensión del contrato de trabajo solicitada por el trabajador durante el cual no presta servicios ni recibe salario
+
+Existen varios tipos:
+- Forzosa: Se concede al trabajador que debe ausentarse obligatoriamente para realizar funciones públicas o sindicales de ámbito provincial o superior y le sea imposible la asistencia al trabajo.
+  - Tiene derecho a la reserva de su puesto y al cómputo de antigüedad, debiendo solicitar el reingreso dentor de mes siguiente al cese del cargo pública
+- Voluntaria: 
+  - Requiere al menos 1 año de antigüedad en la empresa para solicitarlo.
+  - Duración de 4 meses y 5 años.
+  - Sólo podrá ser solicitado de nuevo después de 4 años desde el fin de la anterior excedencia.
+  - No se reserva el puesto de trabajo, pero tiene derecho preferente a ocupar una vacante similar en la empresa.
+- Por cuidado de hijos:
+  - Duración máxima de 3 años desde el nacimiento/adopción.
+  - Se guarda el puesto sólo durante el primer año, después de éste, tiene derecho preferente de ingreso.
+  - Computa la antigüedad y puede asistir a cursos de formación profesional.
+- Por cuidado de familiares (hasta 2º de consanguinidad o afinidad)
+  - Familiares que no pueden valerse por si mismos y no desempañan actividades retribuidas.
+  - Duracción máxima 2 años, computa la antigüedad.
+  - Durante el 1º año tiene derecho de reserva de su puesto de trabajo, después, la reserva se limita a un puesto del mismo grupo profesional o categoría equivalente.
+  - Computa la antigüedad y puede asistir a cursos de formación profesional.
