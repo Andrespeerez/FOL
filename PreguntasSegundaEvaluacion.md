@@ -174,7 +174,7 @@ Existen varios tipos:
 
 > Un trabajador solicita una excedencia voluntaria para dedicarlo un año entero a viajar y realizar estudios en el estranjero. Durante ese tiempo, la empresa no le paga ni tiene obligación de reservarle el puesto, aunque si hay vacantes al regreso, podría reincorporarse con preferencia sobre nuevos candidatos
 
-## 4. Explica, define y pon un ejemplo de extinción por despido disciplinario, formas del despido y calificación del despido
+## 4. Explica, define y pon un ejemplo de extincion por despido disciplinario, formas del despido y calificacion del despido
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
 
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-4-modificacion-suspension-y-extincion-del-contrato-de-trabajo)
