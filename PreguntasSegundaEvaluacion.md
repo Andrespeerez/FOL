@@ -16,7 +16,11 @@
 
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-4-modificacion-suspension-y-extincion-del-contrato-de-trabajo)
 
-### **Movilidad funcional:** Cuando el trabajador realiza tareas diferentes a las habituales cumpliendo órdenes de la empresa
+### **Movilidad funcional:**
+
+```
+Cuando el trabajador realiza tareas diferentes a las habituales cumpliendo órdenes de la empresa
+```
 
 Tenemos movilidad funcional tanto **horizontal** (dentro del mismo grupo profesional o equivalentes);  **vertical** (cambio de categoría profesional por necesidad de la empresa) que puede ser **ascendente** o **descendente**
 
@@ -29,11 +33,19 @@ En la **movilidad funcional vertical** al trabajador se le asigna tareas de un g
 
 Por último tenemos la **movilidad extraordinaria** que es cuando el trabajador cambia de grupo profesional definitivamente. Se trata de una modificación sustancial de las condiciones de trabajo
 
-### **Movilidad geográfica:** Cuando la empresa cambia de centro de trabajo de un empleado, lo que implica un camvio de residencia del empleado y que existan causas objetivas para realizar dicho cambio (la empresa debe justificar el traslado por razones económicas, organizativas, productivas o tecnológicas)
+### **Movilidad geográfica:** 
+
+```
+Cuando la empresa cambia de centro de trabajo de un empleado, lo que implica un cambio de residencia del empleado y que existan causas objetivas para realizar dicho cambio (la empresa debe justificar el traslado por razones económicas, organizativas, productivas o tecnológicas)
+```
 
 Si el cambio de centro de trabajo no requiere un cambio de residencia, la empresa puede reasignar al trabajador sin necesidad de justificaciones especiales
 
-#### Desplazamiento (movilidad geográfica temporal): Cambio temporal del centro de trabajo (no puede durar más de 1 año en un periódo de 3 años)
+#### Desplazamiento (movilidad geográfica temporal): 
+
+``` 
+Cambio temporal del centro de trabajo (no puede durar más de 1 año en un periódo de 3 años)
+```
 
 - Se debe comunicar con antelación (si el desplazamiento es mayor a 3 meses, la empresa debe avisar con 5 días de antelación)
 - El trabajador puede:
@@ -44,7 +56,11 @@ Si el cambio de centro de trabajo no requiere un cambio de residencia, la empres
   - 2 días de viaje (ida y vuelta)
   - Pago de gastos de viaje y dietas según convenio laboral
 
-#### Traslado (movilidad geográfica permanente): Cambio definitivo del puesto de trabajo (si dura más de 1 año en un periodo de 3 años)
+#### Traslado (movilidad geográfica permanente): 
+
+```
+Cambio definitivo del puesto de trabajo (si dura más de 1 año en un periodo de 3 años)
+```
 
 Puede tratarse de un traslado **individual** o **colectivo**
 
@@ -65,6 +81,14 @@ Si es colectivo:
 
 [*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-4-modificacion-suspension-y-extincion-del-contrato-de-trabajo)
 
+### Causas que justifican una Modificación Sustancial de las Condiciones de Trabajo
+- **Económicas:** Cuando la empresa tiene pérdidas o previsión de descenso de ingresos
+- **Técnicas:** Implementación de nuevas tecnologías que requieren reorganización al personal
+- **Organizativas:** Cambios en la estructura de la empresa que afectan al personal
+- **Productivas:** Alteraciones en la demanda de productos o servicios que exigen ajustes en la plantilla
+
+### ¿Qué puede afectar una modificación sustancial de las condiciones de trabajo?
+
 Las empresas pueden acordar modificaciones sustanciales de las condiciones de trabajo, individuales o colectivas, siempre que existan razones económicas, técnicas, organizativas o de producción que lo justifiquen. Pueden afectar a:
 - La Jornada Laboral
 - El Horario y Distribucción del Tiempo de Trabajo
@@ -72,8 +96,13 @@ Las empresas pueden acordar modificaciones sustanciales de las condiciones de tr
 - Sistema de Remuneración
 - Sistema de Trabajo
 - Movilidad Funcional
+- Movilidad Geográfica
 
-### Individual (se le debe notificar con 15 días de antelación)
+> Una empresa de atención al cliente decide modificar el horario de sus empleados, que antes trabajaban de 9:00 a 17:00, y ahora deberán hacerlo en turnos rotativos de mañana y tarde (de 7:00 a 15:00 o de 15:00 a 23:00). Este cambio afecta sustancialmente la vida del trabajador, por lo que debe justificarse con razones organizativas o productivas
+
+### Derechos del trabajador ante una modificación sustancial de las condiciones de trabajo
+
+#### Individual (se le debe notificar con 15 días de antelación)
 
 El empreado puede:
 - Aceptar la decisión empresarial
@@ -81,7 +110,7 @@ El empreado puede:
 - Extinguir el contrato con derecho a indemnización de 20 días de salario por año trabajado hasta un máximo de 9 mensualidades (270 días)
   - En caso de que afecte a su dignidad puede solicitarla con un máximo de 33 días / año (720 días)
 
-### Colectiva:
+#### Colectiva:
 
 - Se debe negociar con los representantes de los trabajadores
   - Periodo de consulta de 15 días máximo
@@ -96,6 +125,13 @@ El empreado puede:
 
 ### Suspensión específica
 
+```
+Aquellas situaciones en el que el contrato de trabajo queda en pausa sin que se extinga la relación laboral
+
+El trabajador cesa su obligación de prestar servicios y el empleador deja de pagar el salario
+```
+
+Las causas de la suspensión pueden ser:
 - Mutuo acuerdo de las partes y causas acordadas en el contrato
 - Permiso de formación o perfeccionamiento profesional (según lo fijado en el convenio colectivo)
 - Incapacidad temporal por accidente o enfermedad
@@ -112,24 +148,33 @@ El empreado puede:
 - Decisión de la trabajadora siendo víctima de violencia de género
   - Suspención del contrato hasta 6 meses, prorrogables judicialmente en periodos de 3 meses hasta un máximo de 18 meses, para garantizar su protección
 
+> Un trabajador sufre un accidente y queda en incapacidad temporal. Durante el tiempo que dure la baja, el contrato se queda en suspensión y cobrará la prestación de la Seguridad Social. El contrato prevalece, por lo que una vez terminada la baja, el trabajador se volverá a incorporar al puesto de trabajo.
+
 ### Excedencia:
 
+```
 Suspensión del contrato de trabajo solicitada por el trabajador durante el cual no presta servicios ni recibe salario
 
+Puede tener o no derecho a reserva del puesto de trabajo
+```
+
 Existen varios tipos:
-- Forzosa: Se concede al trabajador que debe ausentarse obligatoriamente para realizar funciones públicas o sindicales de ámbito provincial o superior y le sea imposible la asistencia al trabajo.
+- **Forzosa**: Se concede al trabajador que debe ausentarse obligatoriamente para realizar funciones públicas o sindicales de ámbito provincial o superior y le sea imposible la asistencia al trabajo.
   - Tiene derecho a la reserva de su puesto y al cómputo de antigüedad, debiendo solicitar el reingreso dentor de mes siguiente al cese del cargo pública
-- Voluntaria: 
+- **Voluntaria**: 
   - Requiere al menos 1 año de antigüedad en la empresa para solicitarlo.
   - Duración de 4 meses y 5 años.
   - Sólo podrá ser solicitado de nuevo después de 4 años desde el fin de la anterior excedencia.
   - No se reserva el puesto de trabajo, pero tiene derecho preferente a ocupar una vacante similar en la empresa.
-- Por cuidado de hijos:
+- **Por cuidado de hijos**:
   - Duración máxima de 3 años desde el nacimiento/adopción.
   - Se guarda el puesto sólo durante el primer año, después de éste, tiene derecho preferente de ingreso.
   - Computa la antigüedad y puede asistir a cursos de formación profesional.
-- Por cuidado de familiares (hasta 2º de consanguinidad o afinidad)
+- **Por cuidado de familiares (hasta 2º de consanguinidad o afinidad)**
   - Familiares que no pueden valerse por si mismos y no desempañan actividades retribuidas.
   - Duracción máxima 2 años, computa la antigüedad.
   - Durante el 1º año tiene derecho de reserva de su puesto de trabajo, después, la reserva se limita a un puesto del mismo grupo profesional o categoría equivalente.
   - Computa la antigüedad y puede asistir a cursos de formación profesional.
+
+> Un trabajador solicita una excedencia voluntaria para dedicarlo un año entero a viajar y realizar estudios en el estranjero. Durante ese tiempo, la empresa no le paga ni tiene obligación de reservarle el puesto, aunque si hay vacantes al regreso, podría reincorporarse con preferencia sobre nuevos candidatos
+
