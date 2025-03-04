@@ -40,9 +40,9 @@ Si el cambio de centro de trabajo no requiere un cambio de residencia, la empres
 
 #### Desplazamiento (movilidad geográfica temporal): 
 
-``` 
+
 Cambio temporal del centro de trabajo (no puede durar más de 1 año en un periódo de 3 años)
-```
+
 
 - Se debe comunicar con antelación (si el desplazamiento es mayor a 3 meses, la empresa debe avisar con 5 días de antelación)
 - El trabajador puede:
