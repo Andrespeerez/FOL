@@ -292,3 +292,38 @@ La representación colectiva de los trabajadores se ejerce a través de los **de
 
 
 > En empresa de 100 trabajadores, **el comité de empresa** negocia con la dirección para mejorar las condiciones de seguridad en la fábrica. Además, un representante sindical detecta que un trabajador ha sido despedido sin justificación clara y reclama su reincorporación. Gracias a su **garantía de protección contra represalias**, la empresa no puede despedirlo ni sancionarlo por su actividad sindical
+
+
+## 7. Explica, define y pon un ejemplo de ambitos de aplicacion del convenio colectivo:
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-5-representacion-de-los-trabajadores)
+
+El convenido es un acuerdo negociado entre los representantes de los trabajadores y los empresarios que regula las condiciones laborales dentro de una empresa o sector. Los ámbitos de aplicación determinan a quiénes y en qué condiciones se les aplica.
+
+### Ámbitos de aplicación del convenio colectivo
+
+#### Ámbito funcional:
+- Hace referencia a la actividad económica o sector en el que se aplica el convenio
+- Puede aplicarse en un ámbito inferior al de empresa (por departamentos), en toda la empresa o en un ámbito superior (sectorial, nacional)
+
+> Un convenio firmado entre empresas del sector de la construcción establece condiciones laborales para todos los trabajadores que realicen actividades relacionadas con la construcción dentro de la empresa.
+
+#### Ámbito territorial:
+- Define el espacio geográfico en el que el convenio es válido.
+- Puede ser local, provincial, interprovincial, autonómico, estatal, europeo o internacional.
+
+> El convenio de oficinas y despachos de Alicante se aplica únicamente a empresas de oficinas y despachos ubicadas en Alicante, pero no a otras provincias.
+
+#### Ámbito personal:
+- Indica quiénes están obligados a cumplir el convenio y a quiénes se les aplica.
+- Puede afectar a todos los trabajadores de una empresa o solo a ciertas categorías según clasificación profesional, nivel jerárquico o tipo de contrato (tiempo completo/parcial).
+
+>  Un convenio en una empresa de telecomunicaciones puede aplicarse solo a los trabajadores con puestos técnicos u operativos, excluyendo directivos o gerentes.
+
+#### Ámbito temporal:
+- Establece la duración del convenio y las condiciones para su renovación o prórroga.
+- Si no se pacta lo contrario, los convenios se prorrogarán automáticamente cada año, salvo que se denuncie expresamente.
+- Si transcurre un año desde la denuncia sin acordar uno nuevo, el convenio pierde vigencia y se aplicará el de ámbito superior (salvo que se pacte otra cosa).
+
+> Un convenio de oficinas y despachos de Alicante tiene una validez de tres años. Si no se acuerda uno nuevo tras su vencimiento, se aplicará el convenio estatal de oficinas y despachos.
