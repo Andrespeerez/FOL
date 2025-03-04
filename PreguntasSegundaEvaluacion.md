@@ -256,3 +256,39 @@ Tras la impugnación, el despido puede calificarse como:
 > Una empresa de software atraviesa dificultades económicas y decide reducir su plantilla. Un programador es despedido por causas económicas, recibiendo su carta de despido con 15 días de preaviso y la correspondiente indemnización de 20 días por año trabajado.
 > 
 > Si el trabajador cree que la empresa sigue generando beneficios y que su despido es injustificado, puede impugnarlo. Si el juez determina que la empresa no ha demostrado suficientemente la causa económica, el despido podría declararse improcedente, y la empresa tendría que optar por readmirlo o pgarde una indemnización mayor
+
+# Unidad 5: Representacion de los trabajadores:
+6. [Explica, define y pon un ejemplo de Garantías y competencias de la representación colectiva](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-garantias-y-competencias-de-la-representacion-colectiva)
+7. [Explica, define y pon un ejemplo de Ámbitos de aplicación del convenio colectivo](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-ambitos-de-aplicacion-del-convenio-colectivo)
+8. [Explica, define y pon un ejemplo de Ventajas, características y tipos de comportamiento en el trabajo en equipo](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-ventajas-caracteristicas-y-tipos-de-comportamientos-en-el-trabajo-en-equipo)
+9. [Explica, define y pon un ejemplo de Medios de resolución de conflictos, las fases de negociación y reglas de negociación](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-medios-de-resolucion-de-conflictos-las-fases-de-negociacion-y-reglas-de-negociacion)
+
+## 6. Explica, define y pon un ejemplo de garantias y competencias de la representacion colectiva:
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-5-representacion-de-los-trabajadores)
+
+La representación colectiva de los trabajadores se ejerce a través de los **delegados de personal** y los **comités de empresa**. Estos órganos representan a los empleados ante la empresa y defienden sus derechos e intereses
+
+#### Competencias de la representación colectiva:
+
+1. Recibir información relevante de la empresa que pueda afectar a los trabajadores. Incluido información económica, financiera, organización del trabajo, reestructuración, despidos o fusiones.
+1. Recibir la copia básica de contratos laborales: para comprobar que las condiciones de trabajo se ajustan a la ley y la notificación de las prórrogas en el plazo de 10 días.
+1. Emitir un informe: antes de que el empresario ejecute sus decisiones sobre temas que afectan a los trabajadores.
+1. Vigilar el cumplimiento de las normas laborales, de Seguridad Social y empleo.
+1. Participar: en la gestión de las obras sociales establecidas en la empresa y colaborar en la puesta en marcha de medidas de conciliación de la vida laboral y familiar
+1. Colaborar con la dirección: para conseguir que se lleven a cabo las medidas tomadas para el mantenimiento y el incremento de la productividad
+1. Informar a sus representados de todos los temas de interés.
+
+#### Garantías de los representantes de los trabajadores:
+
+1. **Libertad de expresión:** Pueden comunicar información a los trabajadores sin censura empresarial, respetando la legislación vigente
+1. **Protección contra el despido:** No pueden ser despedidos ni sancionados por ejercer su cargo, salvo en casos de falta grave demostrada
+1. **Expediente contradictorio:** En caso de ser sancionados con faltas graves o muy graves, debe abrirse un expediente donde el trabajador pueda defenderse
+1. **No ser discriminado:** por ejercer sus derechos de representación
+1. **Prioridad de permanencia:** En caso de despidos colectivos, tienen prioridad de permanencia para mantener su puesto
+1. **Crédito de horas sindicales:** Pueden dedicar un número de horas laborales (según el tamaño de la empresa) a actividades de representación sin reducción de salario
+
+
+
+> En empresa de 100 trabajadores, **el comité de empresa** negocia con la dirección para mejorar las condiciones de seguridad en la fábrica. Además, un representante sindical detecta que un trabajador ha sido despedido sin justificación clara y reclama su reincorporación. Gracias a su **garantía de protección contra represalias**, la empresa no puede despedirlo ni sancionarlo por su actividad sindical
