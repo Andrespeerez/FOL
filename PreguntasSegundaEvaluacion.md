@@ -18,9 +18,7 @@
 
 ### **Movilidad funcional:**
 
-```
 Cuando el trabajador realiza tareas diferentes a las habituales cumpliendo órdenes de la empresa
-```
 
 Tenemos movilidad funcional tanto **horizontal** (dentro del mismo grupo profesional o equivalentes);  **vertical** (cambio de categoría profesional por necesidad de la empresa) que puede ser **ascendente** o **descendente**
 
@@ -35,9 +33,8 @@ Por último tenemos la **movilidad extraordinaria** que es cuando el trabajador 
 
 ### **Movilidad geográfica:** 
 
-```
 Cuando la empresa cambia de centro de trabajo de un empleado, lo que implica un cambio de residencia del empleado y que existan causas objetivas para realizar dicho cambio (la empresa debe justificar el traslado por razones económicas, organizativas, productivas o tecnológicas)
-```
+
 
 Si el cambio de centro de trabajo no requiere un cambio de residencia, la empresa puede reasignar al trabajador sin necesidad de justificaciones especiales
 
@@ -58,9 +55,8 @@ Cambio temporal del centro de trabajo (no puede durar más de 1 año en un peri�
 
 #### Traslado (movilidad geográfica permanente): 
 
-```
 Cambio definitivo del puesto de trabajo (si dura más de 1 año en un periodo de 3 años)
-```
+
 
 Puede tratarse de un traslado **individual** o **colectivo**
 
@@ -125,11 +121,11 @@ El empreado puede:
 
 ### Suspensión específica
 
-```
+
 Aquellas situaciones en el que el contrato de trabajo queda en pausa sin que se extinga la relación laboral
 
 El trabajador cesa su obligación de prestar servicios y el empleador deja de pagar el salario
-```
+
 
 Las causas de la suspensión pueden ser:
 - Mutuo acuerdo de las partes y causas acordadas en el contrato
@@ -152,11 +148,11 @@ Las causas de la suspensión pueden ser:
 
 ### Excedencia:
 
-```
+
 Suspensión del contrato de trabajo solicitada por el trabajador durante el cual no presta servicios ni recibe salario
 
 Puede tener o no derecho a reserva del puesto de trabajo
-```
+
 
 Existen varios tipos:
 - **Forzosa**: Se concede al trabajador que debe ausentarse obligatoriamente para realizar funciones públicas o sindicales de ámbito provincial o superior y le sea imposible la asistencia al trabajo.
