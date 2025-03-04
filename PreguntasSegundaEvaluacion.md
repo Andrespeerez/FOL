@@ -353,3 +353,61 @@ El convenido es un acuerdo negociado entre los representantes de los trabajadore
 - **Agresivo:** Defensa de los derechos personales de manera inapropieada e impositiva, sin respetar a otras personas y obviando o despreciando la opinión de los demás
 
 > En una tienda con varias secciones, cada sección está compuesta por vendedores y por su jefe de sección. Éste se involucra en el desarrollo de las ventas y de la sección para conseguir alcanzar objetivos comunes y además lidera y organiza a su equipo.
+
+## 9. Explica, define y pon un ejemplo de medios de resolucion de conflictos, las fases de negociacion y reglas de negociacion:
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-5-representacion-de-los-trabajadores)
+
+#### Medios de resolución de conflictos
+
+Cuando surgen disputas en el ámbito laboral o personal, existen difernetes mecanismos para resolverlas de forma pacífica:
+1. Negociación:
+    - Es un proceso en el que las partes en conflicto intentan llegar a un acuerdo sin intervención externa
+
+> Un trabajador y su jefe negocian un aumento salarial en función de su desempeño
+
+2. Conciliación:
+    - Una persona imparcial escucha a las partes, pero no propone soluciones
+
+3. Mediación:
+    - Un tercero imparcial (mediador) ayuda a las partes a encontrar una solución, puede sugerir soluciones pero no impone una decisión
+
+> Un mediador interviene en una disputa entre empleados por un reparto desigual de tareas sugiriendo condiciones equitativas para las partes
+
+4. Arbitraje:
+    - Un árbitro analiza el caso y dicta una resolución que ambas partes deben acatar
+
+> Un trabajador despedido sin justificación recurre a un arbitraje para obtener una compensación
+
+#### Fases de la negociación:
+
+- **Fase 1. Planificación (antes de las primeras negociaciones):** Concretar necesidades, objetivos, límites, peticiones iniciales y estrategias (qué se hará para alcanzar los objetivos. Acciones concretas = tácticas)
+  - Se estableen también los límites de ruptura y de salida. (objetivo mínimo y objetivo máximo)
+
+> Un trabajador investiga los salarios del sector antes de pedir un aumento
+
+- **Fase 2. Toma de contacto:** Se presenta el conflicto y se expresan los intereses de cada parte
+
+> Un grupo de empleados plantea a la empresa la necesidad de mejorar sus condiciones laborales
+
+- **Fase 3. Exploración y argumentación:** Se intenta analizar las opciones y se justifican las demandas
+
+> Un equipo de trabajo debate sobre la distribución de tareas en un nuevo proyecto. Unos quieren un enfoque y otros proponen algo distinto.
+
+- **Fase 4. : Acercamiento de posturas y cierre** Se buscan soluciones de mutuo beneficio, se realizan concesiones y se define un posible acuerdo. (Acuerdo = si una zona coincide entre los límites de salida y de ruptura de los negociadores. Si no, se rompe la negociación)
+
+> La empresa argumenta que no puede aumentar sueldos, pero ofrece beneficios adicionales
+
+#### Reglas de la negociación:
+- Preparar la negociación
+- Separar las personas del problema y utilizar criterios objetivos, centrándose en los intereses y necesidades
+- Ceder ante las razones
+- Alcanzar el mejor acuerdo
+- Fomentar las buenas relaciones entre las partes
+- Realizar más concesiones
+- No mostrar impaciencia 
+- Ser flexible y saber escuchar
+- Buscar información para resolver el conflicto o cerrar un acuerdo
+- No confiar y chequear permanentemente los datos
+- Saber seducir, establecer límites claros y ser un buen comunicador.
