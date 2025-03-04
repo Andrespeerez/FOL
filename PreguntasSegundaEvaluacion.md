@@ -254,4 +254,5 @@ Tras la impugnación, el despido puede calificarse como:
 - **Nulo:** Si de demuestra que el despido vulnera derechos fundamentales (por ejemplo, discriminación o represalias), la empresa debe readmitir al trabajador y pagarle los salarios dejados de percibir
 
 > Una empresa de software atraviesa dificultades económicas y decide reducir su plantilla. Un programador es despedido por causas económicas, recibiendo su carta de despido con 15 días de preaviso y la correspondiente indemnización de 20 días por año trabajado.
+> 
 > Si el trabajador cree que la empresa sigue generando beneficios y que su despido es injustificado, puede impugnarlo. Si el juez determina que la empresa no ha demostrado suficientemente la causa económica, el despido podría declararse improcedente, y la empresa tendría que optar por readmirlo o pgarde una indemnización mayor
