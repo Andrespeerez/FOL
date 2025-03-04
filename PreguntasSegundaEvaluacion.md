@@ -327,3 +327,29 @@ El convenido es un acuerdo negociado entre los representantes de los trabajadore
 - Si transcurre un año desde la denuncia sin acordar uno nuevo, el convenio pierde vigencia y se aplicará el de ámbito superior (salvo que se pacte otra cosa).
 
 > Un convenio de oficinas y despachos de Alicante tiene una validez de tres años. Si no se acuerda uno nuevo tras su vencimiento, se aplicará el convenio estatal de oficinas y despachos.
+
+## 8. Explica, define y pon un ejemplo de Ventajas, caracteristicas y tipos de comportamientos en el trabajo en equipo:
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-5-representacion-de-los-trabajadores)
+
+#### Ventajas del trabajo en equipo:
+- Exige directrices, objeticos y resultados claros
+- Integra diferentes formas de pensar y hacer. Enriquece el trabajo y fomenta la creatividad y la productividad
+- Permite realizar con éxito tareas complicadas
+- Mejora el clima laboral y las relaciones interpersonales si se resuelven los conflictos individuales y grupales que aparecen
+- Incrementa la responsabilidad y la confianza mutua si está bien liderado y tiene miembros comprometidos
+- Fomenta la comunicación activa y la retroalimentación
+
+#### Características de los equipos de trabajo:
+- No existe una estructura jerárquica rígida
+- El jefe coordina las tareas y coopera con sus colaboradores para alcanzar objetivos comunes
+- Cada persona tiene un rol concreto, con personalidades, capacidades, experiencias y formas de pensar distintas, pero complementarias
+- El éxito del equipo reside en la sinergia. Se busca la participación efectiva de sus miembros mediante la comunicación abierta
+
+#### Tipos de comportamiento:
+- **Pasivo:** No expresa abiertamente sus sentimientos, pensamientos y opiniones por dar más valor a los ajenos que a los suyos por temor al rechazo
+- **Asertivo:** Habilidad de expresar directa, abierta y honestamente los pensamientos, sentimientos y creencias propios respetando a los demás. **La asertividad fomenta la tolerancia, la participación y la comunicación e impulsa la creatividad**
+- **Agresivo:** Defensa de los derechos personales de manera inapropieada e impositiva, sin respetar a otras personas y obviando o despreciando la opinión de los demás
+
+> En una tienda con varias secciones, cada sección está compuesta por vendedores y por su jefe de sección. Éste se involucra en el desarrollo de las ventas y de la sección para conseguir alcanzar objetivos comunes y además lidera y organiza a su equipo.
