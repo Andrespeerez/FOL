@@ -260,7 +260,7 @@ Tras la impugnación, el despido puede calificarse como:
 # Unidad 5: Representacion de los trabajadores:
 6. [Explica, define y pon un ejemplo de Garantías y competencias de la representación colectiva](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-garantias-y-competencias-de-la-representacion-colectiva)
 7. [Explica, define y pon un ejemplo de Ámbitos de aplicación del convenio colectivo](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-ambitos-de-aplicacion-del-convenio-colectivo)
-8. [Explica, define y pon un ejemplo de Ventajas, características y tipos de comportamiento en el trabajo en equipo](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-ventajas-caracteristicas-y-tipos-de-comportamientos-en-el-trabajo-en-equipo)
+8. [Explica, define y pon un ejemplo de Ventajas, características y tipos de comportamiento en el trabajo en equipo](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-ambitos-de-aplicacion-del-convenio-colectivo)
 9. [Explica, define y pon un ejemplo de Medios de resolución de conflictos, las fases de negociación y reglas de negociación](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#6-explica-define-y-pon-un-ejemplo-de-medios-de-resolucion-de-conflictos-las-fases-de-negociacion-y-reglas-de-negociacion)
 
 ## 6. Explica, define y pon un ejemplo de garantias y competencias de la representacion colectiva:
