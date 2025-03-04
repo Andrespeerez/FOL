@@ -214,3 +214,44 @@ El despido debe ser comunicado por escrito, especificando las razones que lo jus
 - Es cuando se infligen derechos fundamentales del trabajador, como discriminación por razón de sexo, orientación sexual, religión, embarazo, ejercicio de derechos sindicales, etc.
 - Obliga a las empresas a reincorporar al trabajador a su puesto, con el abono de los salarios dejados de percibir desde el despido
 
+## 5. Explica, define y pon un ejemplo de extincion por causas objetivas, la forma de despido y su impugnacion
+[*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
+
+[*Indice Tema*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#unidad-4-modificacion-suspension-y-extincion-del-contrato-de-trabajo)
+
+La extinción del contrato por causas objetivas es una forma de despido en la que el empleador finaliza la relación laboral por razones justificadas, pero que no se deben a una falta grave del trabajador.
+
+#### Causas objetivas del despido:
+1. **Ineptitud del trabajador** conocida o sobrevenida después de su contratación
+  - Por ejemplo: Si pierde una certificación ogligatoria para su puesto
+2. **Falta de adaptación a modificaciones técnicas** en el puesto de trabajo, tras haber recibido formación suficiente
+3. **Causas económicas, técnicas o de producción** en la empresa que justifiquen la reducción de personal
+4. **Faltas de asistencia pero intermitentes**, que afecten al rendimiento de la empresa
+
+
+#### Forma del despido por causas objetivas:
+- **Entrega de una carta de despido** al trabajador, explicando las razones objetivas de la extinción
+- **Preaviso de 15 días**, salvo que la empresa prefiera abonarlos en lugar de esperar
+- **Pago de una indemnización de 20 días por año trabajado**, con un máximo de 12 mensualidades
+- **Pago del finiquito**, que incluye salarios pendientes, vacaciones no disfrutadas y otros conceptos adecuados
+- **Finalización de un período de formación**, si el despido se debe a falta de adaptación a cambios técnicos
+- **Impugnación** si el trabajador considera que ha sido improcedente o nulo
+- El trabajador puede solicitar la **Prestación por desempleo** si cumple con los requisitos
+
+#### Impugnación del despido por causas objetivas
+
+El trabajador puede reclamar si:
+- No existe una causa objetiva real
+- La empresa no ha seguido correctamente el procedimiento
+- Hay indicios de fraude o discriminación en la decisión
+
+En trabajador dispone de 20 días hábiles para presentar una demanda ante el Juzgado de los Social
+
+Tras la impugnación, el despido puede calificarse como:
+- **Procedente:** Si el juez considera que la causa es real y justificada, el despido se mantiene sin cambios
+- **Improcedente:** Si el juez considera que la causa no está justificada o hay errores en el procedimiento
+  - La empresa debe elegir entre **readmitir al trabajador** o **Indemnizarlo con 33 días por año trabajado (720 días)**
+- **Nulo:** Si de demuestra que el despido vulnera derechos fundamentales (por ejemplo, discriminación o represalias), la empresa debe readmitir al trabajador y pagarle los salarios dejados de percibir
+
+> Una empresa de software atraviesa dificultades económicas y decide reducir su plantilla. Un programador es despedido por causas económicas, recibiendo su carta de despido con 15 días de preaviso y la correspondiente indemnización de 20 días por año trabajado.
+> Si el trabajador cree que la empresa sigue generando beneficios y que su despido es injustificado, puede impugnarlo. Si el juez determina que la empresa no ha demostrado suficientemente la causa económica, el despido podría declararse improcedente, y la empresa tendría que optar por readmirlo o pgarde una indemnización mayor
