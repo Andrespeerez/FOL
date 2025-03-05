@@ -31,6 +31,8 @@ En la **movilidad funcional vertical** al trabajador se le asigna tareas de un g
 
 Por último tenemos la **movilidad extraordinaria** que es cuando el trabajador cambia de grupo profesional definitivamente. Se trata de una modificación sustancial de las condiciones de trabajo
 
+> Una empresa necesita cubrir temporalmente el puesto de un supervisor que está de baja. Un empleado de menor categoría asume sus funciones. Si el cambio dura más de 6 meses en 1 año o 8 meses en 2 años, el trabajador puede reclamar el ascenso definitivo.
+
 ### **Movilidad geográfica:** 
 
 Cuando la empresa cambia de centro de trabajo de un empleado, lo que implica un cambio de residencia del empleado y que existan causas objetivas para realizar dicho cambio (la empresa debe justificar el traslado por razones económicas, organizativas, productivas o tecnológicas)
@@ -71,6 +73,8 @@ Si es colectivo:
 - Si no hay acuerdo
   - Se prosigue con el traslado
   - Los representantes sindicales pueden recurrir la medida y llevarla a los tribunales
+
+> Una empresa de informática traslada a un programador de Madrid a Barcelona por una reestructuración interna. La empresa le da 30 días de preaviso y cubre los gastos de mudanza.
 
 ## 2. Explica, define y pon un ejemplo de modificacion sustancial de las condiciones de trabajo.
 [*Al Inicio*](https://github.com/Andrespeerez/FOL/blob/main/PreguntasSegundaEvaluacion.md#preguntas-segunda-evaluacion)
